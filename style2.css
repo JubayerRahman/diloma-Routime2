@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.work{
+    border: 3px solid rgb(11, 230, 47);
+    border-radius: 20px;  
+}
+select{
+    background-color: gray;
+    border: 1px solid rgb(11, 230, 47);
+    border-radius: 20px;
+    color: white;
+    font-size: 17px;
+    padding: 10px;
+}
+
+button{
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color : rgb(25, 51, 170);
+    font-size: 30px;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+}
